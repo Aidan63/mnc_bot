@@ -1,0 +1,7 @@
+-p src
+-D analyzer-optimize
+-D HXCPP_M64
+-L hxcpp_luv_io
+-m Main
+--cpp bin
+--debug

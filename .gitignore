@@ -1,0 +1,5 @@
+libs/steamworks
+bin
+.vscode
+.vs
+node_modules
